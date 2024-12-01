@@ -1,6 +1,6 @@
 ## Latihan API
 
-Setup jenkins via web!
+Setup jenkins via web.
 
 ## License
 
